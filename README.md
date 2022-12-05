@@ -2,7 +2,7 @@
 
 **What is it** - Colab script for [shadertoy-to-video-with-FBO](https://github.com/danilw/shadertoy-to-video-with-FBO)
 
-*Warning* - *this is not best setup*, I made it only to record my simple shaders, and it just "exploded" to this, rememver about lots of limitations (read on shadertoy-to-video-with-FBO page).\
+*Warning* - *this is not best setup*, I made it only to record my simple shaders, and it just "exploded" to this, remember about lots of limitations (read on shadertoy-to-video-with-FBO page).\
 But it works, and I dont have better setup for now.
 ___
 
