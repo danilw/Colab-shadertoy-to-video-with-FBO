@@ -1,3 +1,13 @@
+
+# DO NOT WORK ANYMORE
+
+# reason https://github.com/thygate/stable-diffusion-webui-depthmap-script/issues/163#issuecomment-1512392860
+
+Google turned off or broke EGL completely on Colab.
+
+___
+___
+
 # Colab-shadertoy-to-video-with-FBO
 
 **What is it** - Colab script for [shadertoy-to-video-with-FBO](https://github.com/danilw/shadertoy-to-video-with-FBO)
