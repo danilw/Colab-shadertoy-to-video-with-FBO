@@ -8,6 +8,8 @@ Google turned off or broke EGL completely on Colab.
 ___
 ___
 
+<!---
+
 # Colab-shadertoy-to-video-with-FBO
 
 **What is it** - Colab script for [shadertoy-to-video-with-FBO](https://github.com/danilw/shadertoy-to-video-with-FBO)
@@ -29,4 +31,4 @@ ___
 3. Follow instructions in script on Colab.
 4. press Runtime - Run all in Colab
 
-
+--->
