@@ -1,9 +1,9 @@
 
 # DOES NOT WORK ANYMORE - 2023 April+
 
-# reason https://github.com/thygate/stable-diffusion-webui-depthmap-script/issues/163#issuecomment-1512392860
+# reason https://github.com/vispy/vispy/issues/2469#issuecomment-1513538902
 
-Google turned off or broke EGL completely on Colab.
+Google turned off or broke EGL for Vispy on Colab.
 
 ___
 
