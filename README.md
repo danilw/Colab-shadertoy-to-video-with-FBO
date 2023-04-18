@@ -1,5 +1,5 @@
 
-# DO NOT WORK ANYMORE
+# DOES NOT WORK ANYMORE
 
 # reason https://github.com/thygate/stable-diffusion-webui-depthmap-script/issues/163#issuecomment-1512392860
 
